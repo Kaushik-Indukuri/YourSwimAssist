@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049584178404",
+    "firebase_url": "https://urswimassist.firebaseio.com",
+    "project_id": "urswimassist",
+    "storage_bucket": "urswimassist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049584178404:android:fbbcbfa65a08802830c8f1",
+        "android_client_info": {
+          "package_name": "com.kaushikindukuri.swimassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049584178404-j9feqeutam0ou0cc5jjjegm09mbp6mk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5dA9B1eT3qpigKQc8HkfDaygsRvXlXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049584178404-j9feqeutam0ou0cc5jjjegm09mbp6mk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049584178404-vviv5mpcp2km6oh13d33p8lg2tj3g5a6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaushikindukuri.swimassist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
